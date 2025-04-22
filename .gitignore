@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Общие
+node_modules/
+*.log
+build/
+dist/
